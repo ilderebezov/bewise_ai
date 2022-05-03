@@ -25,8 +25,8 @@
 
     Настроить репозиторий
 
-    git clone git@gitlab.com:shift-python/derebezov/telegram_bot.git
-    cd telegram_bot
+    git@github.com:ilderebezov/bewise_ai.git
+    cd bewise_ai
 
     Установить зависимости. Зависимости установятся в виртуальное окружение.
 
